@@ -1,2 +1,2 @@
-# SKMbiya.github.io
+# samuelmbiya.github.io
 My personal website
