@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Blog
-subtitle: Some of my thoughts
+subtitle: Some ideas and thoughts
 ---
 
 <div>
-{% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
+<!-- {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">
 <strong>
@@ -26,5 +26,6 @@ subtitle: Some of my thoughts
 </li>
 {% endfor %}
 </ul>
-{% endfor %}
+{% endfor %} -->
+Coming soon!
 </div>

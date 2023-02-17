@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: Currently looking for engineering research and development (R&D) roles in STEM
+subtitle: Interested in engineering research and development (R&D) roles in STEM
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>

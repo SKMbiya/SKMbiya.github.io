@@ -8,9 +8,11 @@ sitemap:
 <h1>Hi, I'm Samuel.</h1>
 
 <p style="text-align:justify">
-I recently completed my  studies towards a BScEng degree in Electrical and Computer Engineering at the University of Cape Town. I am interested in research and development (R&D) work in STEM-related fields. My current interests lie in Embedded Systems, Artificial Intelligence, Digital Signal Processing, Biomedical Engineering and Radar.<br><br>
+I am passionate about engineering, research, entrepreneurship and using my skills to solve challenges faced on the African continent. 
 
-I am passionate about engineering, entrepreneurship and using my skills and knowledge to solve challenges faced on the African continent. <br><br>
+Currently, I am working as a graduate electrical engineer. I received my Bachelor's degree in Electrical and Computer Engineering at the University of Cape Town.
 
-I am is curious, creative, self-motivated, a fast learner and a hard worker. I'm always looking to learn new skills, gain knowledge and development himself further, while also empowering others.
+I am is interested in research and development (R&D) work in STEM-related fields, and my interests lie in Embedded Systems, Artificial Intelligence, Digital Signal Processing, Biomedical Engineering and Radar.
+
+I am curious, creative, self-motivated, a fast learner and a hard worker. I am always looking to learn new skills, gain knowledge and development myself further, while also empowering others.
 </p>

@@ -98,7 +98,7 @@
     <url>
       <loc>http://localhost:4000/blog.html</loc>
       
-        <lastmod>2022-09-26T17:25:30+02:00</lastmod>
+        <lastmod>2023-01-23T19:54:12+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -113,7 +113,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2022-09-26T17:25:30+02:00</lastmod>
+        <lastmod>2023-01-23T19:54:12+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,9 +126,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/photography.html</loc>
+      <loc>http://localhost:4000/in%20progress/photography.html</loc>
       
-        <lastmod>2022-09-26T17:25:30+02:00</lastmod>
+        <lastmod>2023-01-23T19:54:12+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,9 +141,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/projects.html</loc>
+      <loc>http://localhost:4000/in%20progress/projects.html</loc>
       
-        <lastmod>2022-09-26T17:25:30+02:00</lastmod>
+        <lastmod>2023-01-23T19:54:12+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -158,7 +158,7 @@
     <url>
       <loc>http://localhost:4000/resume.html</loc>
       
-        <lastmod>2022-09-26T17:25:30+02:00</lastmod>
+        <lastmod>2023-01-23T19:54:12+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
