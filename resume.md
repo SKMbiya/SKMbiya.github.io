@@ -7,8 +7,8 @@ subtitle: Interested in engineering research and development (R&D) roles in STEM
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` I am proficient in Python and Java. I am interested in Machine Learning, Electronics and Autonomous vehicles. I am expected to graduate from the University of Cape Town in December 2022 with a BScEng degree in Electrical and Computer engineering  ```  
+<!-- ### SKILLS
+``` I am proficient in Python and Java. I am interested in Machine Learning, Electronics and Autonomous vehicles. I am expected to graduate from the University of Cape Town in December 2022 with a BScEng degree in Electrical and Computer engineering  ```   -->
 
 ### EDUCATION
 
