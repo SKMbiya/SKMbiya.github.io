@@ -29,6 +29,9 @@ Committee
 
 ### EXPERIENCE
 
+**Graduate Engineer** | *Council for Scientific and Industrial Research (CSIR) <span style="float: right; ">Nov 2022 - Present</span>  
+Working on Electronic Warfare Support Measures (ESM) research and development in the Digital Electronic Warfare Research Group at the CSIR.
+
 **Tutor** | *University of Cape Town* <span style="float: right; ">Feb 2022 - Jun 2022</span>  
 During the 2022 1st semester, I was a tutor for the Electrical Engineering Design Priciples course (EEE3088F) presented to 3rd year electrical engineering students. The role involved marking tests, weekly assignments and project submissions. My responsibilities also involved mentoring 4 teams of students throughout their course project, which involved designing and fabricating an environment sensing expansion board (HAT) for the STM32 microcontroller discovery board. The teams made use of tools such as KiCAD for circuit board prototyping and Git/Github for collaboration and version control, and fabricated their boards using the services of JLCPCB.
  
@@ -62,15 +65,21 @@ This role involved communicating the teachers and educators to set up tutoring a
 This role involved tutoring highschool learners Maths and Science at the learning centres and schools in the Phillipi community in Cape Town.
 
 ### PROJECTS
+
+**Self-Driving Cars Specialisation (Online/Coursera)**<span style="float: right; ">Aug 2022 - present</span>
+This is an ongoing project that I've undertaken due to my interest in autonomous vehicles. The course is helping me develop skills and knowledge in Autonomous vehicle technology. The course covers an Introduction to Self-Driving Cars, State Estimation and Localisation for Self-Driving Cars, Visual  Perception and Motion Planning. [(Read more)](https://www.coursera.org/specializations/self-driving-cars#courses)
+
 **Eyowa!**<span style="float: right; ">Aug 2022 - present</span>  
-Eyowa! is a learning platform which allows anyone to learn the Tshiluba language. Ciluba (pronounced Chee-loo-ba) is a language spoken in the Kasai province in.. [(Read more)](#) 
+Eyowa! is a learning platform which allows anyone to learn the Tshiluba language. Ciluba (pronounced Chee-loo-ba) is a language spoken in the Kasai province in.. [(Coming soon)](#) 
 
 **Evaluating the MIT S-band coffee can radar as an educational tool**<span style="float: right; ">Feb 2022 - May 2022</span>  
-As a partial requirements for the award of my degree in Electrical and Computer engineering at the University of Cape Town, I had to undertake a research project. My research project aimed to contribute to practical teaching and learning in the field of Radar at the University of Cape Town (UCT), South Africa. The project.. [(Read more)](#)
+As a partial requirements for the award of my degree in Electrical and Computer engineering at the University of Cape Town, I had to undertake a research project. My research project aimed to contribute to practical teaching and learning in the field of Radar at the University of Cape Town (UCT), South Africa. The project.. [(Read more)](https://github.com/samuelmbiya/Evaluating-the-MIT-S-band-radar-as-an-educational-tool)
 
 ### AWARDS & RECOGNITION
 
+- CSIR Excellence Award for the Best Undergraduate/Honours Student, CSIR (2022)
 - Participant in the Google Developers Student Club UCT hackathon in partnership with Yoco, Google Developers Student Club UCT (2020)
+- CSIR Bursary Recipient, CSIR (2018 - 2022)
 - Dux Scholar, Lyttelton Manor Highschool (2017)
 - 3x Full academic colours, Lyttelton Manor Highschool (2016-2017)
 - Top Academic Achiever in Grade 11, Lyttelton Manor Highschool (2016)
