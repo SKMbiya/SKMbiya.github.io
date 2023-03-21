@@ -29,7 +29,7 @@ Committee
 
 ### EXPERIENCE
 
-**Graduate Engineer** | *Council for Scientific and Industrial Research (CSIR) <span style="float: right; ">Nov 2022 - Present</span>  
+**Graduate Engineer** | *Council for Scientific and Industrial Research (CSIR)* <span style="float: right; ">Nov 2022 - Present</span>  
 Working on Electronic Warfare Support Measures (ESM) research and development in the Digital Electronic Warfare Research Group at the CSIR.
 
 **Tutor** | *University of Cape Town* <span style="float: right; ">Feb 2022 - Jun 2022</span>  
@@ -66,7 +66,7 @@ This role involved tutoring highschool learners Maths and Science at the learnin
 
 ### PROJECTS
 
-**Self-Driving Cars Specialisation (Online/Coursera)**<span style="float: right; ">Aug 2022 - present</span>
+**Self-Driving Cars Specialisation (Online/Coursera)**<span style="float: right; ">Aug 2022 - present</span>  
 This is an ongoing project that I've undertaken due to my interest in autonomous vehicles. The course is helping me develop skills and knowledge in Autonomous vehicle technology. The course covers an Introduction to Self-Driving Cars, State Estimation and Localisation for Self-Driving Cars, Visual  Perception and Motion Planning. [(Read more)](https://www.coursera.org/specializations/self-driving-cars#courses)
 
 **Eyowa!**<span style="float: right; ">Aug 2022 - present</span>  
