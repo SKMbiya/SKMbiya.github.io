@@ -14,7 +14,7 @@ subtitle: Interested in engineering research and development (R&D) roles in STEM
 
 **University of Cape Town** <span style="float: right; ">2018 - 2022 </span>  
 _BScEng Electrical and Computer Engineering_  
-- Focus areas of coursework - Embedded Systems, Signal Processing, Computer Science, Electronics
+- Focus areas of courseworgit config --global user.email "you@example.com" - Embedded Systems, Signal Processing, Computer Science, Electronics
 - Research project - Evaluating the MIT S-band coffee can radar as an educational tool
 (Supervisor: Dr Y. Abdul Gaffar)
 - Activities & Societies - Developer’s Society, Google Developer Student Club (DSC-UCT), Entrepreneur’s Society
