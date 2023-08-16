@@ -16,5 +16,8 @@ I received my Bachelor's degree in Electrical and Computer Engineering from the 
 
 I am interested in research and development (R&D) work in Embedded Systems, Artificial Intelligence, RF engineering and Sensor and Data Fusion.
 
-See my [CV](/assets/Samuel_Mbiya_CV.pdf) for more information.
+See my <a href="{{ '/assets/Samuel_Mbiya_CV.pdf' | prepend: site.baseurl }}">CV</a> for more information.
+
+
+
 </p>
