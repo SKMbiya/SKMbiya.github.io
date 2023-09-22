@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Photo of the week"
-subtitle: ""
+subtitle: "23 September 2023"
 date:   2023-09-23 00:24:00 +0200
 categories: ["photography"]
 author: "Samuel"
