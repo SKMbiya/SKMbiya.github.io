@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Photo of the week"
+title: "Photo of the week #1"
 subtitle: ""
 date:   2023-09-23 00:24:00 +0200
 categories: ["photography"]
